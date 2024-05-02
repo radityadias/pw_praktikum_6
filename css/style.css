@@ -20,3 +20,31 @@
 .hero-img {
     text-align: center;
 }
+
+footer
+{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    background: grey;
+    color: white;
+}
+
+.row
+{
+    padding: 8px;
+    text-align: left;
+}
+
+.container-flex
+{
+    display: flex;
+    justify-content: center;
+}
+
+.card
+{
+    padding: 10px;
+    margin: 10px;
+}
